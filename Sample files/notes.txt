@@ -1,0 +1,12 @@
+One pixel Base64 PNG
+
+Data URL:
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjaN/m+B8ABcQCfuD1qpoAAAAASUVORK5CYII=
+
+Things to add in this folder:
+
+Sample executable (x64,x86), sample DLLs + a note to describe its behaviour
+
+Opening powershell and cmd
+
+Mimikatz dump LSASS (KIV)

@@ -1,0 +1,12 @@
+Compile for x64 using:
+gcc source.c -o output
+
+Compile for x86 using:
+gcc -m32 program.c -o program_x86
+
+Compiling for x84 requires additional libraries. Install using:
+- Debian/Ubuntu: sudo apt-get install gcc-multilib g++-multilib 
+- Fedora/RHEL: sudo dnf install glibc-devel.i686 libgcc.i686
+
+
+

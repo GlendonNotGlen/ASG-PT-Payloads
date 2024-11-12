@@ -1,0 +1,1 @@
+notepad.exe pops up Notepad application while writefile.exe will create a testfile.txt in C:\Users\Public.
