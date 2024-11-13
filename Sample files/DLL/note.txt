@@ -1,0 +1,5 @@
+Compiled on WSL/Linux using: `x86_64-w64-mingw32-g++ notepad-source.cpp -o notepad.dll -static -shared`
+
+Running DLLs (on command prompt): `rundll32 .\notepad.dll,#1`
+
+notepad.dll pops up Notepad application while writefile.dll will create a testfile.txt in C:\Users\Public.

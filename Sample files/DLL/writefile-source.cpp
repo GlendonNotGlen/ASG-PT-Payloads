@@ -16,7 +16,7 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
                 file.close();
             } else {
                 // If the file couldn't be opened, show an error message box
-                MessageBox(NULL, "Failed to open or create the logfile.", "Error", MB_OK | MB_ICONERROR);
+                MessageBox(NULL, L"Failed to open or create the logfile.", L"Error", MB_OK | MB_ICONERROR);
             }
             break;
         }

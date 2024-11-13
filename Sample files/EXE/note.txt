@@ -1,1 +1,3 @@
+Compiled on WSL/Linux using: x86_64-w64-mingw32-g++ notepad-source.cpp -o notepad.exe -static
+
 notepad.exe pops up Notepad application while writefile.exe will create a testfile.txt in C:\Users\Public.
